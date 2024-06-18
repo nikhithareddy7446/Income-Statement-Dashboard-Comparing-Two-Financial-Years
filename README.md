@@ -11,7 +11,7 @@ Here's a summary of the findings in the report:
 
 <img width="238" alt="image" src="https://github.com/nikhithareddy7446/Income-Statement-Dashboard-Comparing-Two-Financial-Years/assets/142128157/532936ba-cf95-4a58-a2e6-368fff611d6b">
 
-**Revenue**: The company's revenue increased slightly from $3,343,866.70 in 2019 to $3,370,490.10 in 2020. This is a change of 0.79%.
+****Revenue****: The company's revenue increased slightly from $3,343,866.70 in 2019 to $3,370,490.10 in 2020. This is a change of 0.79%.
 
 **Cost of Goods Sold**: The cost of goods sold also increased slightly from $794,783.66 in 2019 to $894,773.36 in 2020. This is a change of 12.63%.
 
@@ -35,6 +35,6 @@ Here's a summary of the findings in the report:
 Overall, the company's profitability has decreased between 2019 and 2020. Their revenue increased slightly, but their expenses increased at a higher rate. This led to a decrease in net income and net income margin.
 
 # Summary Table
-<img width="369" alt="image" src="https://github.com/nikhithareddy7446/Income-Statement-Dashboard
-  -Comparing-Two-Financial-Years/assets/142128157/8c496f12-08bf-4abb-98f0-874da14f8955">
+<img width="369" alt="image" src="https://github.com/nikhithareddy7446/Income-Statement-Dashboard-Comparing-Two-Financial-Years/assets/142128157/8c496f12-08bf-4abb-98f0-874da14f8955">
+
 
